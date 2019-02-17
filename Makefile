@@ -44,6 +44,11 @@ docx: $(DOCX_OBJS)
 
 all: pdf docx
 
+clean:
+	rm -fr $(PDF_OBJS)
+	rm -fr $(ODT_OBJS)
+	rm -fr $(DOCX_OBJS)
+
 ##
 ## B U I L D
 ## R U L E S

@@ -13,4 +13,4 @@ pandocker:
   script:
     - make all
     - mkdir public
-    - cp -pr $ARTIFACTS public/
+    - rsync -Rr . public
