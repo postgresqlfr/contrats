@@ -8,10 +8,17 @@ image:
   name: dalibo/pandocker:stable # usually 'stable' or 'latest'
   entrypoint: [""] # we need to override the image entrypoint
 
-pages:
+pandocker:
   stage: build
   script:
     - make all
+  artefacts:
+    paths:
+      - */*
+
+pages:
+  stage: deploy
+  script:
     - mkdir public
     - rsync -Rr . public
   artifacts:
