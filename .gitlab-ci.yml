@@ -12,9 +12,9 @@ pandocker:
   stage: build
   script:
     - make all
-  artefacts:
+  artifacts:
     paths:
-      - */*
+      - '*/*'
 
 pages:
   stage: deploy
