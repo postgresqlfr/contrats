@@ -1,0 +1,16 @@
+## PRO TIP : Test your modifications locally with:
+## gitlab-ci-multi-runner exec docker {name_of_the_job}
+
+variables:
+  ARTIFACTS: '*'
+
+image:
+  name: dalibo/pandocker:stable # usually 'stable' or 'latest'
+  entrypoint: [""] # we need to override the image entrypoint
+
+pandocker:
+  stage: build
+  script:
+    - make all
+    - mkdir public
+    - cp -pr $ARTIFACTS public/
