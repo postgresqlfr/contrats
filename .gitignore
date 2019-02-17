@@ -10,7 +10,7 @@ exports/*
 *.beamer.pdf
 *.pdf
 *.odt
-*.doc
+*.docx
 *.epub
 
 reveal.js/
