@@ -55,7 +55,7 @@ clean:
 ##
 
 %.pdf: %.md
-	$P --pdf-engine=xelatex --template=/root/.pandoc/templates/eisvogel.latex $^ -o $@
+	$P --pdf-engine=xelatex --template=eisvogel $^ -o $@
 
 %.odt: %.md
 	$P $^ -o $@
