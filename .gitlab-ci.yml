@@ -14,3 +14,8 @@ pandocker:
     - make all
     - mkdir public
     - rsync -Rr . public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
