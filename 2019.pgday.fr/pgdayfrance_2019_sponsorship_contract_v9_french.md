@@ -122,9 +122,9 @@ responsables de dommages spéciaux, indirects, accendentels, consécutifs
 ou punitifs (  y compris, mais de façon non limitative, l'impossibilité
 de réaliser des économies, ou des bénéfices; toute perte de jouissance;
 ou toute réclamation faite par une tierce personne ou tout paiement fait
-par une tierce personne), tout perte de revenu ou de profit, toute perte
+par une tierce personne), toute perte de revenu ou de profit, toute perte
 et/ou dommage résultant ou lié à un virus, ou tout perte de donnée et/ou
-dommage découlant ou relatif à de l'éxécution du présent Contrat, que
+dommage découlant de, ou relatif à l'éxécution du présent Contrat, que
 ce soit par une action prévue par le contrat, un délit, ou toute autre
 base légale, indépendamment du fait qu'une Partie ait été ou non avisée
 de la possibilité de tels dommages.
@@ -134,8 +134,8 @@ responsabilité de chaque Partie pour tout dommage résultant de ou
 relatif à ce Contrat, que ce soit par une action prévue par le contrat,
 un délit, ou toute autre base légale, indépendamment du fait qu'une
 Partie ait été ou non avisée de la possibilité de tels dommages,
-n'excèdera pas le montant des pertes subies par PostgreSQLFr sur la
-base des engagements de bonne foi sur ce Contrat, et n'excèdera pas le
+n'excèdera le montant des pertes subies par PostgreSQLFr sur la
+base des engagements de bonne foi sur ce Contrat, ni n'excèdera le
 coût du niveau de partenariat choisi.
 
 Section 7. Cession du Contrat
@@ -143,7 +143,7 @@ Section 7. Cession du Contrat
 
 Aucune des parties ne peut céder ses droits découlant du présent
 Contrat ou tout droit ou obligation  que lui imposent les présentes sans
-un consentement préalable écrit par l'autre Partie, , lequel accord ne
+un consentement préalable écrit par l'autre Partie, lequel accord ne
 sera pas refusé inutilement. Toute tentative de transfert
 en violation de cette Section sera caduque, à l'exception du transfert
 de ce Contrat ou des droits accordés par les présentes à un successeur
@@ -169,7 +169,7 @@ attachées sont l'expression complète et exclusive du partenariat et se
 substituent à tout accord préalable, entente et communication orale ou
 écrite, entre les Parties au regard de l'objet du Contrat
 
-Ce Contrat ne peut pas être changé, sauf par un acte écrit et signé par
+Ce Contrat ne peut pas être modifié, sauf par un acte écrit et signé par
 les deux Parties. Chaque clause de ce Contrat est séparable de toutes
 les autres clauses. L'invalidité ou la non-éxécution d'une clause
 n'affacte pas et ne remet pas en cause les autres clauses qui
@@ -205,7 +205,7 @@ promotion suivantes:\
 -   Inclusion proéminente du logo de la Société et du lien vers le site
     web de la Société sur le site web de la conférence (le logo sera
     fourni par la Société, voir la section
-    [Fourniture des logos et du matériel promotionnel]).).
+    [Fourniture des logos et du matériel promotionnel]).
 
 -   Inclusion proéminente du logo de la Société en introduction des
     vidéos réalisées durant la conférence.
@@ -214,18 +214,18 @@ promotion suivantes:\
     disponibles.
 
 -   Inclusion de quatre fiches promotionnelles au format A4 ou US Letter
-    (éventuellement inséré dans une pochette à rabats) dans le sacs de
-    tous les participants (le matériel promotionnel sera fourni par la
-    Société).
+    (éventuellement inséré dans une pochette à rabats) dans le sac de
+    chaque participant (le matériel promotionnel sera fourni à ses frais
+    par la Société).
 
 -   Inclusion de deux petits cadeaux promotionnels de la Société dans le
     sac de conférence de chaque participant, tel que un crayon, une clé
-    USB ou un pin's. (les cadeaux seront fournis par la Société).
+    USB ou un pin's. (les cadeaux seront fournis à ses frais par la Société).
 
 -   La possibilité d'inclure un panneau publicitaire d'une taille
     maximum de 2 mètres de hauteur par 1 mètre de largeur sur la scène
-    d'une des salles de conférence. (Le panneau sera fourni par la
-    Société, son emplacement sera déterminé par PostgreSQLFr).
+    d'une des salles de conférence. (Le panneau sera fourni à ses frais 
+    par la Société; son emplacement sera déterminé par PostgreSQLFr).
 
 -   Un stand dans le hall du lieu de conférence pour effectuer la
     promotion des produits et des services de la Société.
@@ -254,12 +254,12 @@ promotion suivantes:\
 -   Trois entrées gratuites à la conférence dans la limite des places
     disponibles.
 -   Inclusion de deux fiches promotionnelles au format A4 ou US Letter
-    (éventuellement inséré dans une pochette à rabats) dans le sacs de
-    tous les participants (le matériel promotionnel sera fourni par la
-    Société).
+    (éventuellement inséré dans une pochette à rabats) dans le sac de
+    chaque participant (le matériel promotionnel sera fourni à ses frais
+    par la Société).
 -   Inclusion d'un petit cadeau promotionnel de la Société dans le sac
     de conférence de chaque participant, tel que un crayon, une clé USB
-    ou un pin's. (le cadeau sera fourni par la Société).
+    ou un pin's. (le cadeau sera fourni à ses frais  par la Société).
 -   Permission pour la société d'utiliser le titre "Partenaire Silver
     du PG DAY FRANCE 2019" sur le site web de la société, sur tout
     matériel promotionnel et dans les annonces de presse que la société
@@ -281,9 +281,9 @@ opportunités de promotion suivantes:
 -   Une entrée gratuite à la conférence dans la limite des places
     disponibles.
 -   Inclusion d'une fiche promotionnelle au format A4 ou US Letter
-    (éventuellement inséré dans une pochette à rabats) dans le sacs de
-    tous les participants (le matériel promotionnel sera fourni par la
-    Société).
+    (éventuellement inséré dans une pochette à rabats) dans le sac de
+    chaque participant (le matériel promotionnel sera fourni à ses frais 
+    par la Société).
 -   Permission pour la société d'utiliser le titre "Partenaire Bronze
     du PG DAY FRANCE 2019" sur le site web de la société, sur tout
     matériel promotionnel et dans les annonces de presse que la société
@@ -296,12 +296,12 @@ Fourniture des logos et du matériel promotionnel
 -------------------------------------------------------------------------------
 
 
-Les Logos doivent être transmis avant le 8 mai 2019. Les logos
+*Les Logos doivent être transmis avant le 8 mai 2019. Les logos
 seront dimensionnés et positionnés en fonction du niveau de partenariat.
-Les logos pourront être réordonné sans ordre précis au sein d'un même
-niveau de partenariat. La société est l'unique responsible de la
+Les logos pourront être réordonnés sans ordre précis au sein d'un même
+niveau de partenariat. La société est l'unique responsable de la
 qualité des documents fournis à PostgreSQLFr. Tous les documents
-graphiques qui seront imprimés ou utilisé par PostgreSQLFr doivent être
+graphiques qui seront imprimés ou utilisés par PostgreSQLFr doivent être
 fournis dans un format exploitable (tel que TIFF, PNG, EPS, SVG) avec
 une qualité et une définition suffisante. Les logos doivent avoir un
 fond transparent pour être inclus sur le site web et le livret de la
