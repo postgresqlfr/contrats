@@ -202,12 +202,12 @@ Gold
 En tant que partenaire Gold, la Société disposera des opportunités de
 promotion suivantes:\
 
--   Inclusion proéminente du logo de la Société et du lien vers le site
+-   Inclusion bien visible du logo de la Société et du lien vers le site
     web de la Société sur le site web de la conférence (le logo sera
     fourni par la Société, voir la section
     [Fourniture des logos et du matériel promotionnel]).
 
--   Inclusion proéminente du logo de la Société en introduction des
+-   Inclusion bien visible du logo de la Société en introduction des
     vidéos réalisées durant la conférence.
 
 -   Six entrées gratuites à la conférence dans la limite des places
@@ -247,7 +247,7 @@ Silver
 En tant que partenaire Silver, la Société disposera des opportunités de
 promotion suivantes:\
 
--   Inclusion proéminente du logo de la Société et du lien vers le site
+-   Inclusion bien visible du logo de la Société et du lien vers le site
     web de la Société sur le site web de la conférence (le  logo sera
     fourni par la Société, voir la section
     [Fourniture des logos et du matériel promotionnel]).
