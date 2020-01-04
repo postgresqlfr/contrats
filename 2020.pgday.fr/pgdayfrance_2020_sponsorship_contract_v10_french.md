@@ -39,7 +39,7 @@ ET
 CONSIDERANT
 
 1.  que PostgreSQLFr a une activité à but non lucratif ayant pour
-    objectif la promotion, le dévelopment et la protection du logiciel
+    objectif la promotion, le développement et la protection du logiciel
     Open Source de gestion de bases de données connu sous le nom de
     'PostgreSQL', en accord avec ses statuts;
 2.  la société qui s'engage dans ce contrat ("Contrat") de partenariat
@@ -51,7 +51,7 @@ CONSIDERANT
 4.  la société s'engage à fournir à PostgreSQLFr sa marque en accord
     avec le niveau de partenariat de promotion établit à la section 2 du
     contrat comme défini dans l'Annexe A;
-5.  que PostgreSQLFr va organiser un événement international duran *2 jours*
+5.  que PostgreSQLFr va organiser un événement international durant *2 jours*
     le 17 et 18 juin 2020 à Nantes appelé PG Day France 2020.
 
 Section 1. Préambule
@@ -118,8 +118,8 @@ Section 6. Limitation de Responsabilité
 ---------------------------------------
 
 Sauf indication contraire, en aucun cas les Parties ne seront
-responsables de dommages spéciaux, indirects, accendentels, consécutifs
-ou punitifs (  y compris, mais de façon non limitative, l'impossibilité
+responsables de dommages spéciaux, indirects, accidentels, consécutifs
+ou punitifs (y compris, mais de façon non limitative, l'impossibilité
 de réaliser des économies, ou des bénéfices; toute perte de jouissance;
 ou toute réclamation faite par une tierce personne ou tout paiement fait
 par une tierce personne), toute perte de revenu ou de profit, toute perte
@@ -142,7 +142,7 @@ Section 7. Cession du Contrat
 -----------------------------
 
 Aucune des parties ne peut céder ses droits découlant du présent
-Contrat ou tout droit ou obligation  que lui imposent les présentes sans
+Contrat ou tout droit ou obligation que lui imposent les présentes sans
 un consentement préalable écrit par l'autre Partie, lequel accord ne
 sera pas refusé inutilement. Toute tentative de transfert
 en violation de cette Section sera caduque, à l'exception du transfert
@@ -167,12 +167,12 @@ Section 9. Intégralité du Contrat
 Les Parties s'accordent sur le fait que ce Contrat et toutes les pièces
 attachées sont l'expression complète et exclusive du partenariat et se
 substituent à tout accord préalable, entente et communication orale ou
-écrite, entre les Parties au regard de l'objet du Contrat
+écrite, entre les Parties au regard de l'objet du Contrat.
 
 Ce Contrat ne peut pas être modifié, sauf par un acte écrit et signé par
 les deux Parties. Chaque clause de ce Contrat est séparable de toutes
 les autres clauses. L'invalidité ou la non-éxécution d'une clause
-n'affacte pas et ne remet pas en cause les autres clauses qui
+n'affecte pas et ne remet pas en cause les autres clauses qui
 demeureront pleinement en vigueur.
 
 Les parties, entendant être juridiquement liées par le présent accord,
@@ -200,7 +200,7 @@ Gold
 ----
 
 En tant que partenaire Gold, la Société disposera des opportunités de
-promotion suivantes:\
+promotions suivantes:\
 
 -   Inclusion bien visible du logo de la Société et du lien vers le site
     web de la Société sur le site web de la conférence (le logo sera
