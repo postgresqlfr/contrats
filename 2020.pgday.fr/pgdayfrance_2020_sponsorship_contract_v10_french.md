@@ -54,14 +54,8 @@ CONSIDERANT
 5.  que PostgreSQLFr va organiser un événement international durant *2 jours*
     le 17 et 18 juin 2020 à Nantes appelé PG Day France 2020.
 
-Section 1. Préambule
---------------------
 
-Le préambule fait partie intégrale du contrat.
-
-\
-
-Section 2. Niveaux de Partenariat de promotion
+Section 1. Niveaux de Partenariat de promotion
 -----------------------------------------------
 
 La Société adopte le niveau de partenariat de promotion suivant, tel que
@@ -72,7 +66,7 @@ DAY FRANCE 2020" (sélectionner l'option choisie):
 * [  ] Partenariat de promotion niveau Silver
 * [  ] Partenariat de promotion niveau Bronze
 
-Section 3. Obligations de PostgreSQLFr
+Section 2. Obligations de PostgreSQLFr
 --------------------------------------
 
 PostgreSQLFr s'engage à mettre en valeur la marque de la Société tel
@@ -86,7 +80,7 @@ de PostgreSQLFr à l'évènement, constitueront le respect de
 l'obligation assumée en vertu du présent contrat, et excluent
 l'obligation d'atteindre un résultat déterminé.
 
-Section 4. Obligations de la Société
+Section 3. Obligations de la Société
 ------------------------------------
 
 La Société s'engage à payer la somme de ........................... EURO,
@@ -98,13 +92,13 @@ références suivantes :
 -   BIC: **TRZOFR21XXX**
 
 Le paiement doit être effectué au plus tard 30 jours après la signature
-du contrat de partenariat publicitaire ou six semaines avant la date de
+du contrat de partenariat ou six semaines avant la date de
 la conférence, selon la première éventualité.
 
 Le Société est responsable de tous les coûts et frais associés au
 transfert du paiement.
 
-Section 5. Durée
+Section 4. Durée
 ----------------
 
 Le présent Contrat expirera lorsque toutes les dispositions et
@@ -114,7 +108,7 @@ pour renouveller ces obligations après l'évènement aux mêmes conditions
 ou dans des conditions différentes qui feront l'objet d'un accord de
 renouvellemement.
 
-Section 6. Limitation de Responsabilité
+Section 5. Limitation de Responsabilité
 ---------------------------------------
 
 Sauf indication contraire, en aucun cas les Parties ne seront
@@ -134,11 +128,9 @@ responsabilité de chaque Partie pour tout dommage résultant de ou
 relatif à ce Contrat, que ce soit par une action prévue par le contrat,
 un délit, ou toute autre base légale, indépendamment du fait qu'une
 Partie ait été ou non avisée de la possibilité de tels dommages,
-n'excèdera le montant des pertes subies par PostgreSQLFr sur la
-base des engagements de bonne foi sur ce Contrat, ni n'excèdera le
-coût du niveau de partenariat choisi.
+n'excèdera le coût du niveau de partenariat choisi.
 
-Section 7. Cession du Contrat
+Section 6. Cession du Contrat
 -----------------------------
 
 Aucune des parties ne peut céder ses droits découlant du présent
@@ -152,7 +144,7 @@ constitueront pas un transfert aux fins de cette Section. Ce Contrat
 sera applicable au bénéfice des Parties et les liera ainsi que leurs
 successeurs ou ayants droit.
 
-Section 8. Tribunal et loi applicable
+Section 7. Tribunal et loi applicable
 -------------------------------------
 
 Le Contrat est régi par la loi française. Tout litige relatif à
@@ -161,7 +153,7 @@ Tribunal de Commerce de Paris, même en cas de pluralité de défendeurs ou
 d'appel en garantie, même pour les procédures d'urgence ou les
 procédures conservatoires, en référé ou sur requête.
 
-Section 9. Intégralité du Contrat
+Section 8. Intégralité du Contrat
 ---------------------------------
 
 Les Parties s'accordent sur le fait que ce Contrat et toutes les pièces
