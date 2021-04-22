@@ -42,14 +42,14 @@ CONSIDERANT
     objectif la promotion, le développement et la protection du logiciel
     Open Source de gestion de bases de données connu sous le nom de
     'PostgreSQL', en accord avec ses statuts;
-2.  la société qui s'engage dans ce contrat ("Contrat") de partenariat
+2.  que la société s'engage dans ce contrat ("Contrat") de partenariat
     publicitaire avec PostgreSQLFr dans le but de promouvoir la
     notoriété de sa propre marque avec l'objectif d'augmenter les ventes
     de produits/services qu'elle produit ainsi que ses marchés;
 3.  que la société a lu l'annexe A : Niveaux de visibilité des
     partenariats du "PG DAY FRANCE 2021";
-4.  la société s'engage à fournir à PostgreSQLFr sa marque en accord
-    avec le niveau de partenariat de promotion établit à la section 2 du
+4.  que la société s'engage à fournir à PostgreSQLFr sa marque en accord
+    avec le niveau de partenariat de promotion établi à la section 2 du
     contrat comme défini dans l'Annexe A;
 5.  que PostgreSQLFr va organiser un événement international durant *2 jours*
     le 16 et 17 juin 2021 à Nantes appelé PG Day France 2021.
@@ -83,7 +83,7 @@ l'obligation d'atteindre un résultat déterminé.
 Section 3. Obligations de la Société
 ------------------------------------
 
-La Société s'engage à payer la somme de ........................... EURO,
+La Société s'engage à payer la somme de ........................... EUROS,
 en compensation des obligations de PostgreSQLfr, à verser sur le compte
 enregistré au nom de "ASSOCIATION POSTGRESQLFR" identifié par les 
 références suivantes :
@@ -99,9 +99,9 @@ Section 4. Durée
 
 Le présent Contrat expirera lorsque toutes les dispositions et
 obligations seront réalisées pour le PG DAY FRANCE 2021 et il n'est pas
-renouvelable, sauf consentement exprès des deux Parties acté par écrit
-pour renouveller ces obligations après l'évènement aux mêmes conditions
-ou dans des conditions différentes qui feront l'objet d'un accord de
+renouvelable, sauf consentement express des deux Parties acté par écrit
+pour renouveler ces obligations après l'évènement, aux mêmes conditions
+ou dans des conditions différentes, qui feront l'objet d'un accord de
 renouvellemement.
 
 Section 5. Limitation de Responsabilité
@@ -113,7 +113,7 @@ ou punitifs (y compris, mais de façon non limitative, l'impossibilité
 de réaliser des économies, ou des bénéfices; toute perte de jouissance;
 ou toute réclamation faite par une tierce personne ou tout paiement fait
 par une tierce personne), toute perte de revenu ou de profit, toute perte
-et/ou dommage résultant ou lié à un virus, ou tout perte de donnée et/ou
+et/ou dommage résultant ou lié à un virus, ou toute perte de données et/ou
 dommage découlant de, ou relatif à l'éxécution du présent Contrat, que
 ce soit par une action prévue par le contrat, un délit, ou toute autre
 base légale, indépendamment du fait qu'une Partie ait été ou non avisée
@@ -131,12 +131,12 @@ Section 6. Cession du Contrat
 
 Aucune des parties ne peut céder ses droits découlant du présent
 Contrat ou tout droit ou obligation que lui imposent les présentes sans
-un consentement préalable écrit par l'autre Partie, lequel accord ne
+un consentement préalable écrit de l'autre Partie, lequel accord ne
 sera pas refusé inutilement. Toute tentative de transfert
 en violation de cette Section sera caduque, à l'exception du transfert
 de ce Contrat ou des droits accordés par les présentes à un successeur
 en cas de fusion, de réorganisation interne ou d'aquisition, qui ne
-constitueront pas un transfert aux fins de cette Section. Ce Contrat
+constitueront pas un transfert aux termes de cette Section. Ce Contrat
 sera applicable au bénéfice des Parties et les liera ainsi que leurs
 successeurs ou ayants droit.
 
@@ -188,7 +188,7 @@ Gold
 ----
 
 En tant que partenaire Gold, la Société disposera des opportunités de
-promotions suivantes:\
+promotions suivantes:
 
 -   Inclusion bien visible du logo de la Société et du lien vers le site
     web de la Société sur le site web de la conférence (le logo sera
@@ -233,7 +233,7 @@ Silver
 -------------------
 
 En tant que partenaire Silver, la Société disposera des opportunités de
-promotion suivantes:\
+promotion suivantes:
 
 -   Inclusion bien visible du logo de la Société et du lien vers le site
     web de la Société sur le site web de la conférence (le  logo sera
@@ -246,7 +246,7 @@ promotion suivantes:\
     chaque participant (le matériel promotionnel sera fourni à ses frais
     par la Société).
 -   Inclusion d'un petit cadeau promotionnel de la Société dans le sac
-    de conférence de chaque participant, tel que un crayon, une clé USB
+    de conférence de chaque participant, tel qu'un crayon, une clé USB
     ou un pin's. (le cadeau sera fourni à ses frais  par la Société).
 -   Permission pour la société d'utiliser le titre "Partenaire Silver
     du PG DAY FRANCE 2021" sur le site web de la société, sur tout
