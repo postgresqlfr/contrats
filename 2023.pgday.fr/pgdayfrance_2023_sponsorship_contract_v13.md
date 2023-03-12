@@ -191,7 +191,7 @@ PARTNER
 ----
 
 As a PARTNER, the Business will be entitled to the following
-promotional opportunities:\
+promotional opportunities:
 
 -   Prominent inclusion of the Business' logo and a link to the
     Business' **website** on the official conference website (the logo
