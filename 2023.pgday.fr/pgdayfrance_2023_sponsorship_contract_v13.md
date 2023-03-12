@@ -232,7 +232,7 @@ promotional opportunities:
 SUPPORTER
 -----------------
 
-As a Silver partner the Business will be entitled to the following
+As a SUPPORTER partner the Business will be entitled to the following
 promotional opportunities:
 
 -   Prominent inclusion of the Business\' logo and a link to the
