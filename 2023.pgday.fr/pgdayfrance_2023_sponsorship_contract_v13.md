@@ -223,8 +223,8 @@ promotional opportunities:
     opportunity to distribute promotional material and promotional giveaway
     (the giveaway and material to be provided by Business).
 
--   Permission for the Business to use the following endorsement: "Gold
-    Partner of PG DAY FRANCE 2023" on the Business\' website or in any
+-   Permission for the Business to use the following endorsement:   
+    "PARTNER of PG DAY FRANCE 2023" on the Business\' website or in any
     promotional materials or press releases that the Business sees fit.
 
 **Cost for PARTNER opportunities, as described above, is 3000 €.**
@@ -253,7 +253,7 @@ promotional opportunities:
 -   Inclusion of one small promotional giveaway upon the entry desk
     (the giveaway to be provided by Business).
 -   Permission for the Business to use the following endorsement:
-    "Silver Partner of PG DAY FRANCE 2023" on the Business\' website or
+    "SUPPORTER of PG DAY FRANCE 2023" on the Business\' website or
     in any promotional materials or press releases that the Business
     sees fit.
 
@@ -264,7 +264,7 @@ Providing Logos and Promotional Material
 --------------------------------------------------------------------------------
 
 
-Logos and promotional materiel must be submitted prior to June 8th, 2023.
+Logos and promotional material must be submitted prior to June 8th, 2023.
 
 Logos will be sized and positioned based on the partnership level. Logos
 may be arranged in any way within each partnership group. The Business shall
