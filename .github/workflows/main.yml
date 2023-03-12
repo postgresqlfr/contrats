@@ -7,8 +7,11 @@ jobs:
     runs-on: ubuntu-latest                                                       
     container: dalibo/pandocker                                                  
     steps:                                                                       
-      - uses: actions/checkout@v3                                                
-      - run: make
+      - uses: actions/checkout@v3                                
+      - run: |
+          echo $HOME
+          ls $HOME/.pandoc/templates
+          make
       - uses: actions/upload-artifact@v2
         with: 
           path: .
