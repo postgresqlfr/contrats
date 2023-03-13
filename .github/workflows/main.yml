@@ -11,6 +11,7 @@ jobs:
     steps:                                                                       
       - uses: actions/checkout@v3                                
       - run: |
+          ln -s /root/.pandoc $HOME/.pandoc
           echo $HOME
           ls $HOME/.pandoc/templates
           make
