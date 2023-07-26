@@ -1,6 +1,6 @@
 name: Build the markdown source files                                            
                                                                                  
-on: push                                                                         
+on: [ push, workflow_dispatch ]                                                                         
                                                                                  
 jobs:                                                                            
   build:                                                                         
