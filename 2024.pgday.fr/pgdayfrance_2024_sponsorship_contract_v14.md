@@ -44,7 +44,7 @@ CONSIDERING
 4.  that the Business undertakes to supply to PostgreSQLFr its brand
     according to the type of Advertising Partnership established at
     section 2 of the contract as defined in Attachment A;
-5.  That PostgreSQLFr will organise an international event in Montpellier,
+5.  That PostgreSQLFr will organise an international event in Lille,
     FRANCE, in June 2024 called "PG Day France 2024".
 
 Section 1. Preamble
