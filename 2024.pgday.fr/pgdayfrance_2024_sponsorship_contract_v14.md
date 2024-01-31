@@ -198,16 +198,11 @@ promotional opportunities:
     the **videos** recorded during the event (the logo to be provided by
     Business).
 
--   Inclusion of a promotional video clip on the main screen during the
-    conference breaks. The duration of the video clip must not exceed 
-    60 seconds (the video clip to be provided by the Business).
-
 -   Four free attendee passes for the conference within the limit of
     available seats.
 
--   Inclusion of two small Business promotional giveaway in the
-    conference packs for registered attendees, such as a pen, USB memory
-    stick or pin (the giveaway to be provided by Business).
+-   Inclusion of two small Business promotional giveaway upon the entry desk
+    (the giveaway to be provided by Business).
 
 -   The opportunity to include corporate signage up to a size of 2
     metres high by 1 metre wide at the front of one lecture room (the
@@ -236,18 +231,16 @@ promotional opportunities:
     conference website (the logo to be provided by Business
     see [Providing Logos and Promotional Material]).
 
--   Inclusion of a promotional video clip on the main screen during the
-    conference breaks. The duration of the video clip must not exceed 
-    60 seconds (the video clip to be provided by the Business).
-
 -   Two free attendee passes for the conference Within the limit of
     available seats.
 
 -   Inclusion of one A4 or Letter sized pages of the Business\'
     promotional material upon the entry desk of  the conference. 
     (the paperwork to be provided by Business).
+
 -   Inclusion of one small promotional giveaway upon the entry desk
     (the giveaway to be provided by Business).
+
 -   Permission for the Business to use the following endorsement:
     "SUPPORTER of PG DAY FRANCE 2024" on the Business\' website or
     in any promotional materials or press releases that the Business
