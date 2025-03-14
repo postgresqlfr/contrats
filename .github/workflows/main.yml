@@ -9,12 +9,12 @@ jobs:
       image: dalibo/pandocker
       options: --user root  -e "HOME=/root"                                                 
     steps:                                                                       
-      - uses: actions/checkout@v3                                
+      - uses: actions/checkout@v4                                
       - run: |
           ln -s /root/.pandoc $HOME/.pandoc
           echo $HOME
           ls $HOME/.pandoc/templates
           make
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v4
         with: 
           path: .
