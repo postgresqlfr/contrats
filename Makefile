@@ -4,13 +4,18 @@
 ##
 P=pandoc
 
-# if pandoc is not installed, let's use pandocker
+# if pandoc is not installed, 
+# we'll use docker image pandoc/extra:latest-ubuntu 
+# instead
+
 ifeq (, $(shell which $(P)))
-	DOCKER?=latest
+	#DOCKER?=latest-ubuntu
+  # https://github.com/dinolupo/pandoc-md/issues/1#issuecomment-3586755187
+  DOCKER?=3.7-ubuntu
 endif
 
 ifneq ($(DOCKER),)
-	P:=docker run --rm -it --privileged --volume $(CURDIR):/pandoc dalibo/pandocker:$(DOCKER)
+	P:=docker run --rm -it --privileged --volume $(CURDIR):/pandoc pandoc/extra:$(DOCKER)
 endif
 
 PANDOC_ARGS=--standalone
@@ -55,7 +60,7 @@ clean:
 ##
 
 %.pdf: %.md
-	$P --pdf-engine=xelatex --template=eisvogel $^ -o $@
+	$P --from markdown  --filter pandoc-latex-environment --template eisvogel $^ -o $@
 
 %.odt: %.md
 	$P $^ -o $@

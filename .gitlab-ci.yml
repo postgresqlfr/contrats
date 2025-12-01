@@ -5,13 +5,16 @@ variables:
   ARTIFACTS: '*'
 
 image:
-  name: dalibo/pandocker:stable # usually 'stable' or 'latest'
+  # should be latest-ubuntu but
+  #https://github.com/dinolupo/pandoc-md/issues/1#issuecomment-3586755187
+  name: pandoc/extra:3.7-ubuntu #latest-ubuntu
   entrypoint: [""] # we need to override the image entrypoint
 
-pandocker:
+pandoc:
   stage: build
   script:
-    - make all
+    - apt update && apt install make
+    - make pdf
   artifacts:
     paths:
       - '*/*'
