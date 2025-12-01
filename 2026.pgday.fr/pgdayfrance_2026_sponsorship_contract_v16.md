@@ -75,7 +75,7 @@ Contract.
 
 It is agreed that the obligation relating to the publicising of the
 brand as outlined above and the participation of PostgreSQLFr in the
-event, will constitute the fulfilment of the obligation assumed under
+event, will constitute the fulfillment of the obligation assumed under
 the present contract, and excludes an obligation of attaining a
 determined result.
 
