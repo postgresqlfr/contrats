@@ -6,7 +6,7 @@ jobs:
   build:                                                                         
     runs-on: ubuntu-latest
     container:
-      image: dalibo/pandocker
+      image: pandoc/extra
       options: --user root  -e "HOME=/root"                                                 
     steps:                                                                       
       - uses: actions/checkout@v4                                
