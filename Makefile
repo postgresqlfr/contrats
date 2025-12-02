@@ -60,7 +60,7 @@ clean:
 ##
 
 %.pdf: %.md
-	$P --from markdown  --filter pandoc-latex-environment --template eisvogel $^ -o $@
+	$P --from markdown --template eisvogel $^ -o $@
 
 %.odt: %.md
 	$P $^ -o $@
